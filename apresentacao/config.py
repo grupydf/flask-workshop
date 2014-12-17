@@ -2,13 +2,13 @@
 
 REVEAL_META = {
     # Title of the slide
-    'title': 'The title',
+    'title': 'Flask: Uma gota de cada vez',
 
     # Author in the metadata of the slide
-    'author': 'Some Author',
+    'author': 'Humberto Rocha',
 
     # Description in the metadata of the slide
-    'description': 'Some description'
+    'description': 'Slides do workshop'
 }
 
 REVEAL_CONFIG = {
