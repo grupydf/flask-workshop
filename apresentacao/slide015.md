@@ -1,5 +1,6 @@
-# Regras Variáveis
-## float
+**`float`**
+
+<br>
 
 Aceita números de ponto flutuante
 

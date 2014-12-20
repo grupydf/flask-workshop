@@ -1,7 +1,6 @@
-# Construção de URL
-<br>
+`url_for(endpoint, **values)`
 
-`flask.url_for(endpoint, **values)`
+<br>
 
 ```python
 >>> from flask import Flask, url_for

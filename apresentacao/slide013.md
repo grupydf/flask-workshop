@@ -1,7 +1,8 @@
-# Regras Variáveis
-## string
+**`string`**
 
-É o conversor padrão e aceita texto sem barra `/`
+<br>
+
+É o conversor padrão e aceita texto sem barra "`/`"
 
 ```python
 @app.route('/user/<username>')

@@ -1,5 +1,6 @@
-# Regras Variáveis
-## int
+**`int`**
+
+<br>
 
 Aceita números inteiros
 

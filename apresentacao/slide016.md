@@ -1,7 +1,8 @@
-# Regras Variáveis
-## path
+**`path`**
 
-Aceita o mesmo que string, com a adição de barra `/`
+<br>
+
+Aceita o mesmo que string, com a adição de barra "`/`"
 
 ```python
 @app.route('/img/<path:filepath>')

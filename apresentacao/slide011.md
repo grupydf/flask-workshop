@@ -1,5 +1,5 @@
-# Regras Variáveis
 ## Barra no final da URL
+
 <br>
 
 - Com barra
