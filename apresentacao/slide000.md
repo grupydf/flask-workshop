@@ -1,7 +1,5 @@
-# Flask
-
-## Uma gota de cada vez
+![flask](img/flask.png) <!-- .element: style="border: none;box-shadow: 0 0 0" -->
 
 <br>
 
-<small>[Humberto Rocha](https://github.com/humrochagf)</small>
+[Humberto Rocha](https://github.com/humrochagf) - [@humrochagf](https://twitter.com/humrochagf)

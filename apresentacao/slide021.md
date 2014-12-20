@@ -2,14 +2,15 @@
 
  <br>
 
-- Em modulo
+### Em modulo
 
 ```
 /application.py
 /templates
     /hello.html
 ```
-- Em pacote
+
+### Em pacote
 
 ```
 /application
